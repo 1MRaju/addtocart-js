@@ -1,8 +1,34 @@
 const product = [
-    { id: 0, image: "/download4.jpg", title: "Foldable Mobile", price: 120 },
-    { id: 1, image: "/download3.jpg", title: "Air Pod", price: 300 },
-    { id: 2, image: "/download2.jpg", title: "Camera-lens", price: 300 },
-    { id: 3, image: "/download.jpg", title: "Laptop", price: 100 },
+    { 
+    id: 0, 
+    image: "https://m.media-amazon.com/images/I/61mjnKbvQHL._SX679_.jpg",
+     title: "Foldable Mobile", 
+     price: 120
+     },
+
+    { 
+        id: 1,
+         image: "https://m.media-amazon.com/images/I/415MTnMFwFL._SX300_SY300_QL70_FMwebp_.jpg",
+         title: "Air Pod",
+         price: 300
+
+     },
+
+    { 
+        id: 2, 
+        image: "https://m.media-amazon.com/images/I/41Vszpt+j7L._SY300_SX300_.jpg",
+         title: "Camera-lens", 
+        price: 300 
+
+    },
+
+    { 
+        id: 3, 
+        image: "https://m.media-amazon.com/images/I/41eRbZPyRqL._SX300_SY300_QL70_FMwebp_.jpg", 
+        title: "Laptop", 
+        price: 100 
+
+    },
 ];
 
 // Ensure unique products (if needed)
